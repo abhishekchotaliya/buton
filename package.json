@@ -1,10 +1,10 @@
 {
   "name": "buton",
   "version": "1.0.0",
-  "description": "react buttons",
-  "author": "",
+  "description": "React Buton is a simple yet fully configurable button component you can quickly use in your project",
+  "author": "abhishek chotaliya",
   "license": "MIT",
-  "repository": "/buton",
+  "repository": "https://github.com/abhishekchotaliya/buton",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
