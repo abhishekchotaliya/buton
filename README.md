@@ -2,8 +2,7 @@
 
 **React Buton is a simple yet fully configurable button component you can quickly use in your project.**
 
-<!-- ![React Image](https://github.com/abhishekchotaliya/buton/react-buton-showcase.png) -->
-![React Image](/react-buton-showcase.png)
+[![react-buton-showcase.png](https://i.postimg.cc/Z580tDv3/react-buton-showcase.png)](https://postimg.cc/k257WscX)
 
 ---
 #### Supported Props
