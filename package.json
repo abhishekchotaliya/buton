@@ -10,7 +10,7 @@
     "react-button",
     "component"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Buton is a simple yet fully configurable button component you can quickly use in your project",
   "author": "abhishek chotaliya",
   "license": "MIT",
