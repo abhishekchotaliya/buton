@@ -1,10 +1,23 @@
 {
-  "name": "buton",
+  "name": "@abhishekchotaliya/buton",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "buton", "react", "button", "react-button", "component"
+  ],
   "version": "1.0.0",
   "description": "React Buton is a simple yet fully configurable button component you can quickly use in your project",
   "author": "abhishek chotaliya",
   "license": "MIT",
-  "repository": "https://github.com/abhishekchotaliya/buton",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/abhishekchotaliya/buton"
+  },
+  "bugs": {
+    "url":"https://github.com/abhishekchotaliya/buton/issues"
+  },
+  "homepage": "https://github.com/abhishekchotaliya/buton#readme",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
